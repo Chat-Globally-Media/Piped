@@ -8,7 +8,7 @@ const routes = [
     },
     {
         path: "/trending",
-        name: "Trending1",
+        name: "Trending",
         component: () => import("../components/TrendingPage.vue"),
     },
     {
