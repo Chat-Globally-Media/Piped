@@ -8,8 +8,7 @@
                     height="32"
                     width="32"
                     class="w-10 mr-[-0.6rem]"
-                />ea Tube</router-link
-            >
+                />ea Tube</router-link>
         </div>
         <div class="lt-md:hidden search-container">
             <input
